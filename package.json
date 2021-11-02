@@ -1,0 +1,10 @@
+{
+  "name": "md2blog-template-site",
+  "scripts": {
+    "build": "npx md2blog --clean",
+    "serve": "npx md2blog --serve --drafts"
+  },
+  "dependencies": {
+    "md2blog": "file:../md2blog"
+  }
+}
