@@ -7,6 +7,7 @@ date: 2021-11-01
 ... to my dev blog!
 
 # What should I do next?
+* Update `title`, `description`, and `footer.text` in `content/site.json` to set the blog title, description, and (optional) footer/copyright notice
 * Consider adding a `url` property to `content/site.json` (this will make md2blog generate absolute URLs iny our Atom feed)
   * Make sure the URL ends with a `/`
 * Create directories in `content/posts/` for each topic, then author posts in those directories

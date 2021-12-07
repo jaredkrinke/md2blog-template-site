@@ -1,4 +1,8 @@
 {
+    "$schema": "https://raw.githubusercontent.com/jaredkrinke/md2blog/main/schema/site.schema.json",
     "title": "My Dev Blog",
-    "description": "The best dev blog ever"
+    "description": "The best dev blog ever",
+    "footer": {
+        "text": "Optional copyright notice goes here"
+    }
 }
